@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 /dist
+docs/.vitepress/dist/
 
 # local env files
 .env.local
@@ -28,7 +29,7 @@ pnpm-lock.yaml
 package-lock.json
 
 # Yarn v2
-.pnp.*
+.pnp.
 .yarn/cache
 .yarn/unplugged
 .yarn/build-state.yml
